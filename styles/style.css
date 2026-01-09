@@ -223,3 +223,58 @@ hr{
 .resume p{
     width: 511px;
 }
+.footer-content{
+    max-width: 1200px;
+      margin:0 auto;
+    display:flex;
+    text-align:center;
+    gap:117px;
+
+}
+/* ai portion ta amr background er full width niye nibe */
+footer{
+    margin-top:113px;
+    width:100%;
+    height:780px;
+    background: rgba(255, 248, 243, 1);
+}
+/* ai portion ta amr full body er margin 0 core dibe jate kono gap na thake */
+body {
+  margin: 0;
+}
+
+.footer-content {
+        text-align: left;
+        padding-top:130px;
+}
+.footer-content p{
+    width:562px;
+}
+.message{
+display:block;
+}
+.input input{
+    /* Rectangle 16 */
+width: 461px;
+height: 64px;
+    border:none;
+padding-top:13px;
+padding-left:30px;
+
+}
+.input{
+    margin-bottom:24px;
+
+}
+.input textarea{
+    border:none;
+    /* Rectangle 16 */
+width: 461px;
+height: 180px;
+border-radius:5px;
+padding-top:13px;
+padding-left:30px;
+}
+
+
+
